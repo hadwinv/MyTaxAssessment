@@ -1,0 +1,32 @@
+C:\Users\hadwinv\Desktop\Payspace Assessment\Assessment.Payspace.Tax\Assessment.Payspace.Tax.DataAccess\bin\Debug\netcoreapp3.1\Assessment.Payspace.Tax.Interface.dll
+C:\Users\hadwinv\Desktop\Payspace Assessment\Assessment.Payspace.Tax\Assessment.Payspace.Tax.DataAccess\obj\Debug\netcoreapp3.1\Assessment.Payspace.Tax.DataAccess.csprojAssemblyReference.cache
+C:\Users\hadwinv\Desktop\Payspace Assessment\Assessment.Payspace.Tax\Assessment.Payspace.Tax.DataAccess\obj\Debug\netcoreapp3.1\Assessment.Payspace.Tax.DataAccess.AssemblyInfoInputs.cache
+C:\Users\hadwinv\Desktop\Payspace Assessment\Assessment.Payspace.Tax\Assessment.Payspace.Tax.DataAccess\obj\Debug\netcoreapp3.1\Assessment.Payspace.Tax.DataAccess.AssemblyInfo.cs
+C:\Users\hadwinv\Desktop\Payspace Assessment\Assessment.Payspace.Tax\Assessment.Payspace.Tax.DataAccess\bin\Debug\netcoreapp3.1\Assessment.Payspace.Tax.DataAccess.deps.json
+C:\Users\hadwinv\Desktop\Payspace Assessment\Assessment.Payspace.Tax\Assessment.Payspace.Tax.DataAccess\bin\Debug\netcoreapp3.1\Assessment.Payspace.Tax.DataAccess.runtimeconfig.json
+C:\Users\hadwinv\Desktop\Payspace Assessment\Assessment.Payspace.Tax\Assessment.Payspace.Tax.DataAccess\bin\Debug\netcoreapp3.1\Assessment.Payspace.Tax.DataAccess.runtimeconfig.dev.json
+C:\Users\hadwinv\Desktop\Payspace Assessment\Assessment.Payspace.Tax\Assessment.Payspace.Tax.DataAccess\bin\Debug\netcoreapp3.1\Assessment.Payspace.Tax.DataAccess.dll
+C:\Users\hadwinv\Desktop\Payspace Assessment\Assessment.Payspace.Tax\Assessment.Payspace.Tax.DataAccess\bin\Debug\netcoreapp3.1\Assessment.Payspace.Tax.DataAccess.pdb
+C:\Users\hadwinv\Desktop\Payspace Assessment\Assessment.Payspace.Tax\Assessment.Payspace.Tax.DataAccess\bin\Debug\netcoreapp3.1\Assessment.Payspace.Tax.Interface.pdb
+C:\Users\hadwinv\Desktop\Payspace Assessment\Assessment.Payspace.Tax\Assessment.Payspace.Tax.DataAccess\obj\Debug\netcoreapp3.1\Assessment.Payspace.Tax.DataAccess.csproj.CopyComplete
+C:\Users\hadwinv\Desktop\Payspace Assessment\Assessment.Payspace.Tax\Assessment.Payspace.Tax.DataAccess\obj\Debug\netcoreapp3.1\Assessment.Payspace.Tax.DataAccess.dll
+C:\Users\hadwinv\Desktop\Payspace Assessment\Assessment.Payspace.Tax\Assessment.Payspace.Tax.DataAccess\obj\Debug\netcoreapp3.1\Assessment.Payspace.Tax.DataAccess.pdb
+C:\Users\hadwinv\Desktop\Payspace Assessment\Assessment.Payspace.Tax\Assessment.Payspace.Tax.DataAccess\obj\Debug\netcoreapp3.1\Assessment.Payspace.Tax.DataAccess.genruntimeconfig.cache
+C:\Users\hadwinv\Desktop\Payspace Assessment\Assessment.Payspace.Tax\Assessment.Payspace.Tax.DataAccess\bin\Debug\netcoreapp3.1\Assessment.Payspace.Tax.Dto.dll
+C:\Users\hadwinv\Desktop\Payspace Assessment\Assessment.Payspace.Tax\Assessment.Payspace.Tax.DataAccess\bin\Debug\netcoreapp3.1\Assessment.Payspace.Tax.Dto.pdb
+C:\Users\hadwinv\Documents\GitHub\MyTaxAssessment\Assessment.Payspace.Tax\Assessment.Payspace.Tax.DataAccess\bin\Debug\netcoreapp3.1\Assessment.Payspace.Tax.DataAccess.deps.json
+C:\Users\hadwinv\Documents\GitHub\MyTaxAssessment\Assessment.Payspace.Tax\Assessment.Payspace.Tax.DataAccess\bin\Debug\netcoreapp3.1\Assessment.Payspace.Tax.DataAccess.runtimeconfig.json
+C:\Users\hadwinv\Documents\GitHub\MyTaxAssessment\Assessment.Payspace.Tax\Assessment.Payspace.Tax.DataAccess\bin\Debug\netcoreapp3.1\Assessment.Payspace.Tax.DataAccess.runtimeconfig.dev.json
+C:\Users\hadwinv\Documents\GitHub\MyTaxAssessment\Assessment.Payspace.Tax\Assessment.Payspace.Tax.DataAccess\bin\Debug\netcoreapp3.1\Assessment.Payspace.Tax.DataAccess.dll
+C:\Users\hadwinv\Documents\GitHub\MyTaxAssessment\Assessment.Payspace.Tax\Assessment.Payspace.Tax.DataAccess\bin\Debug\netcoreapp3.1\Assessment.Payspace.Tax.DataAccess.pdb
+C:\Users\hadwinv\Documents\GitHub\MyTaxAssessment\Assessment.Payspace.Tax\Assessment.Payspace.Tax.DataAccess\bin\Debug\netcoreapp3.1\Assessment.Payspace.Tax.Dto.dll
+C:\Users\hadwinv\Documents\GitHub\MyTaxAssessment\Assessment.Payspace.Tax\Assessment.Payspace.Tax.DataAccess\bin\Debug\netcoreapp3.1\Assessment.Payspace.Tax.Interface.dll
+C:\Users\hadwinv\Documents\GitHub\MyTaxAssessment\Assessment.Payspace.Tax\Assessment.Payspace.Tax.DataAccess\bin\Debug\netcoreapp3.1\Assessment.Payspace.Tax.Dto.pdb
+C:\Users\hadwinv\Documents\GitHub\MyTaxAssessment\Assessment.Payspace.Tax\Assessment.Payspace.Tax.DataAccess\bin\Debug\netcoreapp3.1\Assessment.Payspace.Tax.Interface.pdb
+C:\Users\hadwinv\Documents\GitHub\MyTaxAssessment\Assessment.Payspace.Tax\Assessment.Payspace.Tax.DataAccess\obj\Debug\netcoreapp3.1\Assessment.Payspace.Tax.DataAccess.csprojAssemblyReference.cache
+C:\Users\hadwinv\Documents\GitHub\MyTaxAssessment\Assessment.Payspace.Tax\Assessment.Payspace.Tax.DataAccess\obj\Debug\netcoreapp3.1\Assessment.Payspace.Tax.DataAccess.AssemblyInfoInputs.cache
+C:\Users\hadwinv\Documents\GitHub\MyTaxAssessment\Assessment.Payspace.Tax\Assessment.Payspace.Tax.DataAccess\obj\Debug\netcoreapp3.1\Assessment.Payspace.Tax.DataAccess.AssemblyInfo.cs
+C:\Users\hadwinv\Documents\GitHub\MyTaxAssessment\Assessment.Payspace.Tax\Assessment.Payspace.Tax.DataAccess\obj\Debug\netcoreapp3.1\Assessment.Payspace.Tax.DataAccess.csproj.CopyComplete
+C:\Users\hadwinv\Documents\GitHub\MyTaxAssessment\Assessment.Payspace.Tax\Assessment.Payspace.Tax.DataAccess\obj\Debug\netcoreapp3.1\Assessment.Payspace.Tax.DataAccess.dll
+C:\Users\hadwinv\Documents\GitHub\MyTaxAssessment\Assessment.Payspace.Tax\Assessment.Payspace.Tax.DataAccess\obj\Debug\netcoreapp3.1\Assessment.Payspace.Tax.DataAccess.pdb
+C:\Users\hadwinv\Documents\GitHub\MyTaxAssessment\Assessment.Payspace.Tax\Assessment.Payspace.Tax.DataAccess\obj\Debug\netcoreapp3.1\Assessment.Payspace.Tax.DataAccess.genruntimeconfig.cache

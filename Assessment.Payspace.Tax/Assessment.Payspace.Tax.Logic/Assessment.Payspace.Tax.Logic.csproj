@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Assessment.Payspace.Tax.Dto\Assessment.Payspace.Tax.Dto.csproj" />
+    <ProjectReference Include="..\Assessment.Payspace.Tax.Interface\Assessment.Payspace.Tax.Interface.csproj" />
+  </ItemGroup>
+
+</Project>

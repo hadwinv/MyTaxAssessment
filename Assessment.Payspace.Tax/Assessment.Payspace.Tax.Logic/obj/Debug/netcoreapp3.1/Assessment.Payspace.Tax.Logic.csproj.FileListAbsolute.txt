@@ -1,0 +1,26 @@
+C:\Users\hadwinv\Desktop\Payspace Assessment\Assessment.Payspace.Tax\Assessment.Payspace.Tax.Logic\bin\Debug\netcoreapp3.1\Assessment.Payspace.Tax.Logic.deps.json
+C:\Users\hadwinv\Desktop\Payspace Assessment\Assessment.Payspace.Tax\Assessment.Payspace.Tax.Logic\bin\Debug\netcoreapp3.1\Assessment.Payspace.Tax.Logic.dll
+C:\Users\hadwinv\Desktop\Payspace Assessment\Assessment.Payspace.Tax\Assessment.Payspace.Tax.Logic\bin\Debug\netcoreapp3.1\Assessment.Payspace.Tax.Logic.pdb
+C:\Users\hadwinv\Desktop\Payspace Assessment\Assessment.Payspace.Tax\Assessment.Payspace.Tax.Logic\obj\Debug\netcoreapp3.1\Assessment.Payspace.Tax.Logic.AssemblyInfoInputs.cache
+C:\Users\hadwinv\Desktop\Payspace Assessment\Assessment.Payspace.Tax\Assessment.Payspace.Tax.Logic\obj\Debug\netcoreapp3.1\Assessment.Payspace.Tax.Logic.AssemblyInfo.cs
+C:\Users\hadwinv\Desktop\Payspace Assessment\Assessment.Payspace.Tax\Assessment.Payspace.Tax.Logic\obj\Debug\netcoreapp3.1\Assessment.Payspace.Tax.Logic.dll
+C:\Users\hadwinv\Desktop\Payspace Assessment\Assessment.Payspace.Tax\Assessment.Payspace.Tax.Logic\obj\Debug\netcoreapp3.1\Assessment.Payspace.Tax.Logic.pdb
+C:\Users\hadwinv\Desktop\Payspace Assessment\Assessment.Payspace.Tax\Assessment.Payspace.Tax.Logic\bin\Debug\netcoreapp3.1\Assessment.Payspace.Tax.Dto.dll
+C:\Users\hadwinv\Desktop\Payspace Assessment\Assessment.Payspace.Tax\Assessment.Payspace.Tax.Logic\bin\Debug\netcoreapp3.1\Assessment.Payspace.Tax.Interface.dll
+C:\Users\hadwinv\Desktop\Payspace Assessment\Assessment.Payspace.Tax\Assessment.Payspace.Tax.Logic\bin\Debug\netcoreapp3.1\Assessment.Payspace.Tax.Dto.pdb
+C:\Users\hadwinv\Desktop\Payspace Assessment\Assessment.Payspace.Tax\Assessment.Payspace.Tax.Logic\bin\Debug\netcoreapp3.1\Assessment.Payspace.Tax.Interface.pdb
+C:\Users\hadwinv\Desktop\Payspace Assessment\Assessment.Payspace.Tax\Assessment.Payspace.Tax.Logic\obj\Debug\netcoreapp3.1\Assessment.Payspace.Tax.Logic.csprojAssemblyReference.cache
+C:\Users\hadwinv\Desktop\Payspace Assessment\Assessment.Payspace.Tax\Assessment.Payspace.Tax.Logic\obj\Debug\netcoreapp3.1\Assessment.Payspace.Tax.Logic.csproj.CopyComplete
+C:\Users\hadwinv\Documents\GitHub\MyTaxAssessment\Assessment.Payspace.Tax\Assessment.Payspace.Tax.Logic\bin\Debug\netcoreapp3.1\Assessment.Payspace.Tax.Logic.deps.json
+C:\Users\hadwinv\Documents\GitHub\MyTaxAssessment\Assessment.Payspace.Tax\Assessment.Payspace.Tax.Logic\bin\Debug\netcoreapp3.1\Assessment.Payspace.Tax.Logic.dll
+C:\Users\hadwinv\Documents\GitHub\MyTaxAssessment\Assessment.Payspace.Tax\Assessment.Payspace.Tax.Logic\bin\Debug\netcoreapp3.1\Assessment.Payspace.Tax.Logic.pdb
+C:\Users\hadwinv\Documents\GitHub\MyTaxAssessment\Assessment.Payspace.Tax\Assessment.Payspace.Tax.Logic\bin\Debug\netcoreapp3.1\Assessment.Payspace.Tax.Dto.dll
+C:\Users\hadwinv\Documents\GitHub\MyTaxAssessment\Assessment.Payspace.Tax\Assessment.Payspace.Tax.Logic\bin\Debug\netcoreapp3.1\Assessment.Payspace.Tax.Interface.dll
+C:\Users\hadwinv\Documents\GitHub\MyTaxAssessment\Assessment.Payspace.Tax\Assessment.Payspace.Tax.Logic\bin\Debug\netcoreapp3.1\Assessment.Payspace.Tax.Dto.pdb
+C:\Users\hadwinv\Documents\GitHub\MyTaxAssessment\Assessment.Payspace.Tax\Assessment.Payspace.Tax.Logic\bin\Debug\netcoreapp3.1\Assessment.Payspace.Tax.Interface.pdb
+C:\Users\hadwinv\Documents\GitHub\MyTaxAssessment\Assessment.Payspace.Tax\Assessment.Payspace.Tax.Logic\obj\Debug\netcoreapp3.1\Assessment.Payspace.Tax.Logic.csprojAssemblyReference.cache
+C:\Users\hadwinv\Documents\GitHub\MyTaxAssessment\Assessment.Payspace.Tax\Assessment.Payspace.Tax.Logic\obj\Debug\netcoreapp3.1\Assessment.Payspace.Tax.Logic.AssemblyInfoInputs.cache
+C:\Users\hadwinv\Documents\GitHub\MyTaxAssessment\Assessment.Payspace.Tax\Assessment.Payspace.Tax.Logic\obj\Debug\netcoreapp3.1\Assessment.Payspace.Tax.Logic.AssemblyInfo.cs
+C:\Users\hadwinv\Documents\GitHub\MyTaxAssessment\Assessment.Payspace.Tax\Assessment.Payspace.Tax.Logic\obj\Debug\netcoreapp3.1\Assessment.Payspace.Tax.Logic.csproj.CopyComplete
+C:\Users\hadwinv\Documents\GitHub\MyTaxAssessment\Assessment.Payspace.Tax\Assessment.Payspace.Tax.Logic\obj\Debug\netcoreapp3.1\Assessment.Payspace.Tax.Logic.dll
+C:\Users\hadwinv\Documents\GitHub\MyTaxAssessment\Assessment.Payspace.Tax\Assessment.Payspace.Tax.Logic\obj\Debug\netcoreapp3.1\Assessment.Payspace.Tax.Logic.pdb

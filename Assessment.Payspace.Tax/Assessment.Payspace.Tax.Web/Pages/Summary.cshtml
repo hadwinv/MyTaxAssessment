@@ -1,0 +1,14 @@
+﻿@page "{result?}"
+@model Assessment.Payspace.Tax.Web.Pages.SummaryModel
+@{
+    ViewData["Title"] = "Success";
+}
+
+<h1>Success</h1>
+<div class="alert alert-success">
+    <strong>Success!</strong> Tax calculation has completed.
+    <div class="form-group">
+        @Html.LabelFor(model => model.TaxAmount)
+        @Model.TaxAmount
+    </div>
+</div>

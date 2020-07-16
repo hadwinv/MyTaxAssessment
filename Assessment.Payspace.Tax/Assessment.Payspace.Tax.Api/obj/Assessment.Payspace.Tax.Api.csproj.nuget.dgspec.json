@@ -1,0 +1,357 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\hadwinv\\Documents\\GitHub\\MyTaxAssessment\\Assessment.Payspace.Tax\\Assessment.Payspace.Tax.Api\\Assessment.Payspace.Tax.Api.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\hadwinv\\Documents\\GitHub\\MyTaxAssessment\\Assessment.Payspace.Tax\\Assessment.Payspace.Tax.Api\\Assessment.Payspace.Tax.Api.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\hadwinv\\Documents\\GitHub\\MyTaxAssessment\\Assessment.Payspace.Tax\\Assessment.Payspace.Tax.Api\\Assessment.Payspace.Tax.Api.csproj",
+        "projectName": "Assessment.Payspace.Tax.Api",
+        "projectPath": "C:\\Users\\hadwinv\\Documents\\GitHub\\MyTaxAssessment\\Assessment.Payspace.Tax\\Assessment.Payspace.Tax.Api\\Assessment.Payspace.Tax.Api.csproj",
+        "packagesPath": "C:\\Users\\hadwinv\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\hadwinv\\Documents\\GitHub\\MyTaxAssessment\\Assessment.Payspace.Tax\\Assessment.Payspace.Tax.Api\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\hadwinv\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://capwnvrepo01:8081/repository/nuget-group": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\hadwinv\\Documents\\GitHub\\MyTaxAssessment\\Assessment.Payspace.Tax\\Assessment.Payspace.Tax.DataAccess\\Assessment.Payspace.Tax.DataAccess.csproj": {
+                "projectPath": "C:\\Users\\hadwinv\\Documents\\GitHub\\MyTaxAssessment\\Assessment.Payspace.Tax\\Assessment.Payspace.Tax.DataAccess\\Assessment.Payspace.Tax.DataAccess.csproj"
+              },
+              "C:\\Users\\hadwinv\\Documents\\GitHub\\MyTaxAssessment\\Assessment.Payspace.Tax\\Assessment.Payspace.Tax.Dto\\Assessment.Payspace.Tax.Dto.csproj": {
+                "projectPath": "C:\\Users\\hadwinv\\Documents\\GitHub\\MyTaxAssessment\\Assessment.Payspace.Tax\\Assessment.Payspace.Tax.Dto\\Assessment.Payspace.Tax.Dto.csproj"
+              },
+              "C:\\Users\\hadwinv\\Documents\\GitHub\\MyTaxAssessment\\Assessment.Payspace.Tax\\Assessment.Payspace.Tax.Logic\\Assessment.Payspace.Tax.Logic.csproj": {
+                "projectPath": "C:\\Users\\hadwinv\\Documents\\GitHub\\MyTaxAssessment\\Assessment.Payspace.Tax\\Assessment.Payspace.Tax.Logic\\Assessment.Payspace.Tax.Logic.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Swashbuckle.AspNetCore.Swagger": {
+              "target": "Package",
+              "version": "[5.5.1, )"
+            },
+            "Swashbuckle.AspNetCore.SwaggerGen": {
+              "target": "Package",
+              "version": "[5.5.1, )"
+            },
+            "Swashbuckle.AspNetCore.SwaggerUi": {
+              "target": "Package",
+              "version": "[5.5.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\hadwinv\\Documents\\GitHub\\MyTaxAssessment\\Assessment.Payspace.Tax\\Assessment.Payspace.Tax.DataAccess\\Assessment.Payspace.Tax.DataAccess.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\hadwinv\\Documents\\GitHub\\MyTaxAssessment\\Assessment.Payspace.Tax\\Assessment.Payspace.Tax.DataAccess\\Assessment.Payspace.Tax.DataAccess.csproj",
+        "projectName": "Assessment.Payspace.Tax.DataAccess",
+        "projectPath": "C:\\Users\\hadwinv\\Documents\\GitHub\\MyTaxAssessment\\Assessment.Payspace.Tax\\Assessment.Payspace.Tax.DataAccess\\Assessment.Payspace.Tax.DataAccess.csproj",
+        "packagesPath": "C:\\Users\\hadwinv\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\hadwinv\\Documents\\GitHub\\MyTaxAssessment\\Assessment.Payspace.Tax\\Assessment.Payspace.Tax.DataAccess\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\hadwinv\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://capwnvrepo01:8081/repository/nuget-group": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\hadwinv\\Documents\\GitHub\\MyTaxAssessment\\Assessment.Payspace.Tax\\Assessment.Payspace.Tax.Dto\\Assessment.Payspace.Tax.Dto.csproj": {
+                "projectPath": "C:\\Users\\hadwinv\\Documents\\GitHub\\MyTaxAssessment\\Assessment.Payspace.Tax\\Assessment.Payspace.Tax.Dto\\Assessment.Payspace.Tax.Dto.csproj"
+              },
+              "C:\\Users\\hadwinv\\Documents\\GitHub\\MyTaxAssessment\\Assessment.Payspace.Tax\\Assessment.Payspace.Tax.Interface\\Assessment.Payspace.Tax.Interface.csproj": {
+                "projectPath": "C:\\Users\\hadwinv\\Documents\\GitHub\\MyTaxAssessment\\Assessment.Payspace.Tax\\Assessment.Payspace.Tax.Interface\\Assessment.Payspace.Tax.Interface.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.1.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\hadwinv\\Documents\\GitHub\\MyTaxAssessment\\Assessment.Payspace.Tax\\Assessment.Payspace.Tax.Dto\\Assessment.Payspace.Tax.Dto.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\hadwinv\\Documents\\GitHub\\MyTaxAssessment\\Assessment.Payspace.Tax\\Assessment.Payspace.Tax.Dto\\Assessment.Payspace.Tax.Dto.csproj",
+        "projectName": "Assessment.Payspace.Tax.Dto",
+        "projectPath": "C:\\Users\\hadwinv\\Documents\\GitHub\\MyTaxAssessment\\Assessment.Payspace.Tax\\Assessment.Payspace.Tax.Dto\\Assessment.Payspace.Tax.Dto.csproj",
+        "packagesPath": "C:\\Users\\hadwinv\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\hadwinv\\Documents\\GitHub\\MyTaxAssessment\\Assessment.Payspace.Tax\\Assessment.Payspace.Tax.Dto\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\hadwinv\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://capwnvrepo01:8081/repository/nuget-group": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\hadwinv\\Documents\\GitHub\\MyTaxAssessment\\Assessment.Payspace.Tax\\Assessment.Payspace.Tax.Interface\\Assessment.Payspace.Tax.Interface.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\hadwinv\\Documents\\GitHub\\MyTaxAssessment\\Assessment.Payspace.Tax\\Assessment.Payspace.Tax.Interface\\Assessment.Payspace.Tax.Interface.csproj",
+        "projectName": "Assessment.Payspace.Tax.Interface",
+        "projectPath": "C:\\Users\\hadwinv\\Documents\\GitHub\\MyTaxAssessment\\Assessment.Payspace.Tax\\Assessment.Payspace.Tax.Interface\\Assessment.Payspace.Tax.Interface.csproj",
+        "packagesPath": "C:\\Users\\hadwinv\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\hadwinv\\Documents\\GitHub\\MyTaxAssessment\\Assessment.Payspace.Tax\\Assessment.Payspace.Tax.Interface\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\hadwinv\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://capwnvrepo01:8081/repository/nuget-group": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\hadwinv\\Documents\\GitHub\\MyTaxAssessment\\Assessment.Payspace.Tax\\Assessment.Payspace.Tax.Dto\\Assessment.Payspace.Tax.Dto.csproj": {
+                "projectPath": "C:\\Users\\hadwinv\\Documents\\GitHub\\MyTaxAssessment\\Assessment.Payspace.Tax\\Assessment.Payspace.Tax.Dto\\Assessment.Payspace.Tax.Dto.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\hadwinv\\Documents\\GitHub\\MyTaxAssessment\\Assessment.Payspace.Tax\\Assessment.Payspace.Tax.Logic\\Assessment.Payspace.Tax.Logic.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\hadwinv\\Documents\\GitHub\\MyTaxAssessment\\Assessment.Payspace.Tax\\Assessment.Payspace.Tax.Logic\\Assessment.Payspace.Tax.Logic.csproj",
+        "projectName": "Assessment.Payspace.Tax.Logic",
+        "projectPath": "C:\\Users\\hadwinv\\Documents\\GitHub\\MyTaxAssessment\\Assessment.Payspace.Tax\\Assessment.Payspace.Tax.Logic\\Assessment.Payspace.Tax.Logic.csproj",
+        "packagesPath": "C:\\Users\\hadwinv\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\hadwinv\\Documents\\GitHub\\MyTaxAssessment\\Assessment.Payspace.Tax\\Assessment.Payspace.Tax.Logic\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\hadwinv\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://capwnvrepo01:8081/repository/nuget-group": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\hadwinv\\Documents\\GitHub\\MyTaxAssessment\\Assessment.Payspace.Tax\\Assessment.Payspace.Tax.Dto\\Assessment.Payspace.Tax.Dto.csproj": {
+                "projectPath": "C:\\Users\\hadwinv\\Documents\\GitHub\\MyTaxAssessment\\Assessment.Payspace.Tax\\Assessment.Payspace.Tax.Dto\\Assessment.Payspace.Tax.Dto.csproj"
+              },
+              "C:\\Users\\hadwinv\\Documents\\GitHub\\MyTaxAssessment\\Assessment.Payspace.Tax\\Assessment.Payspace.Tax.Interface\\Assessment.Payspace.Tax.Interface.csproj": {
+                "projectPath": "C:\\Users\\hadwinv\\Documents\\GitHub\\MyTaxAssessment\\Assessment.Payspace.Tax\\Assessment.Payspace.Tax.Interface\\Assessment.Payspace.Tax.Interface.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
